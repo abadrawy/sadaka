@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sadaka</string>
+    <string name="title_activity_organizations">Organizations</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="action_settings">Settings</string>
+    <string name="notify">Remind Me To Donate</string>
+    <string name="date">date</string>
+    <string name="org_name">Organization</string>
+    <string name="amount">amount</string>
+
+</resources>
